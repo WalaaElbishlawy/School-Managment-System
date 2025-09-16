@@ -2,6 +2,7 @@
 School Managment System mobile app use flutter and backend use laravel 9 
 Requirment to this project
 
+## 🚀 Features
 1. Registration and Login in 
 2. Student Information Management:
    - Store and manage student profiles with details such as name, age, address, contact information, and guardian details.
@@ -26,6 +27,10 @@ Requirment to this project
 7. Fee Management:
    - Manage fee collection and payment records for students.
    - Generate invoices and receipts for parents.
+
+## Demo
+
+https://youtu.be/hcFpGLV8JJk
 
 8. Staff Information and Payroll:
     - Maintain records of teaching and non-teaching staff with their personal details and employment history.
